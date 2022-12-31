@@ -43,9 +43,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: /status
-  logoUrl: https://altearn.xyz/wp-content/uploads/2020/12/Altearn-Title-Shadow-200x.png
+  cname: status.altearn.xyz
+  #baseUrl: /status
+  logoUrl: https://user-images.githubusercontent.com/29739547/210141320-852ad10b-98e6-4b10-8b43-5938023f0fc3.png
   name: Altearn Status
   introTitle: "Suivez sur cette page le status en temps réel des serveurs d'Altearn."
   introMessage: Les données sont récupérées en temps réel grâce à Github Actions.
