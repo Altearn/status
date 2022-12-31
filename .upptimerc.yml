@@ -56,8 +56,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Altearn
       href: https://altearn.xyz
-    - title: Gunivers
-      href: https://gunivers.net
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
