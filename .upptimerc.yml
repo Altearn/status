@@ -63,10 +63,10 @@ assignees:
   - Aeris1One
 
 commitMessages:
-  readmeContent: ":pencil: Mise à jour des status du README [skip ci] [upptime]"
-  summaryJson: ":card_file_box: Mise à jour des rapports [skip ci] [upptime]"
-  statusChange: "$EMOJI $SITE_NAME est $STATUS ($RESPONSE_CODE en $RESPONSE_TIME ms) [skip ci] [upptime]"
-  graphsUpdate: ":bento: Mise à jour des graphes [skip ci] [upptime]"
+#  readmeContent: ":pencil: Mise à jour des status du README [skip ci] [upptime]"
+#  summaryJson: ":card_file_box: Mise à jour des rapports [skip ci] [upptime]"
+#  statusChange: "$EMOJI $SITE_NAME est $STATUS ($RESPONSE_CODE en $RESPONSE_TIME ms) [skip ci] [upptime]"
+#  graphsUpdate: ":bento: Mise à jour des graphes [skip ci] [upptime]"
   commitAuthorName: "Status Bot"
   commitAuthorEmail: "contact@altearn.xyz"
   
