@@ -93,9 +93,9 @@ i18n:
   averageResponseTimeTitle: Temps de réponse moyen
   sevelDayResponseTime: Temps de réponse sur 7 jours
   responseTimeMs: Temps de réponse (ms)
-  up: Pas cassé
-  down: Cassé
-  degraded: Presque cassé
+  up: C'est pas pété
+  down: C'est pété
+  degraded: C'est à moitié pété
   ms: ms
   loading: Chargement
   navGitHub: GitHub
