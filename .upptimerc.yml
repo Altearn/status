@@ -15,9 +15,9 @@ sites:
     check: "tcp-ping"
     url: lb.altearn.xyz
     port: 80
-  - name: Panel (Fat Man)
+  - name: Pterodactyl
     url: $PANEL_URL
-  - name: Statistiques des serveurs Minecraft
+  - name: Player analytics
     url: $STATS_URL
   - name: Serveurs Minecraft (Java)
     check: "tcp-ping"
