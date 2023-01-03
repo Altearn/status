@@ -7,6 +7,8 @@ sites:
     url: https://altearn.xyz
   - name: Gunivers website
     url: https://gunivers.net
+  - name: Evol Originel website
+    url: https://eoriginel.fr/
   - name: Fat Man
     check: "tcp-ping"
     url: fm.altearn.xyz
