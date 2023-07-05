@@ -1,7 +1,7 @@
 url: $STATS_URL
-status: down
-code: 521
-responseTime: 180
-lastUpdated: 2023-07-05T20:04:09.663Z
+status: up
+code: 200
+responseTime: 1111
+lastUpdated: 2023-07-05T20:15:05.798Z
 startTime: Mon Jan 02 2023 22:49:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
