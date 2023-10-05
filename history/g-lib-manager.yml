@@ -1,7 +1,7 @@
 url: https://glib.gunivers.net/
-status: up
-code: 200
-responseTime: 226
-lastUpdated: 2023-10-05T19:33:07.920Z
+status: down
+code: 502
+responseTime: 343
+lastUpdated: 2023-10-05T19:56:19.138Z
 startTime: 2022-12-31T12:58:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
