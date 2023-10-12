@@ -1,7 +1,7 @@
 url: https://eoriginel.fr/
-status: up
-code: 200
-responseTime: 1891
-lastUpdated: 2023-10-12T05:32:55.954Z
+status: down
+code: 503
+responseTime: 851
+lastUpdated: 2023-10-12T05:58:17.525Z
 startTime: 2023-01-03T10:16:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
