@@ -1,7 +1,7 @@
 url: https://gunivers.net
-status: up
-code: 200
-responseTime: 6125
-lastUpdated: 2023-11-03T13:05:15.254Z
+status: down
+code: 503
+responseTime: 501
+lastUpdated: 2023-11-03T13:30:55.501Z
 startTime: 2023-01-01T16:43:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
